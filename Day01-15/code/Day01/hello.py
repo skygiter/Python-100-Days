@@ -1,3 +1,4 @@
+#coding=UTF-8
 """
 第一个Python程序 - hello, world!
 向伟大的Dennis M. Ritchie先生致敬
@@ -17,6 +18,6 @@ python3 hello.py
 
 print('hello, world!')
 # print("你好,世界！")
-print('你好', '世界')
-print('hello', 'world', sep=', ', end='!')
-print('goodbye, world', end='!\n')
+print('你好世界').decode('UTF-8').encode('GBK')
+#print('hello', 'world', sep=', ', end='!')
+#print('goodbye, world', end='!\n')

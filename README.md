@@ -48,8 +48,8 @@
 - Make English as your working language.
 - Practice makes perfect.
 - All experience comes from mistakes.
-- Don't be one of the leeches.
-- Either stand out or kicked out.
+- Don't be one of the leeches.  // 别做伸手党
+- Either stand out or kicked out. // 要么脱颖而出要么落伍
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
